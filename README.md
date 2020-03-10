@@ -9,3 +9,5 @@ status, with accuracy rate of 88% on test data \
 • Implemented KNN, logistic regression and SVM algorithms, and Grid Search to find the best performing model
 
 Data source: http://archive.ics.uci.edu/ml/datasets/credit+approval
+
+<img src= 'https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/931/506/credit-card-application-image.jpg?ve=1&tl=1'>
